@@ -6,3 +6,4 @@ else if
 2. https://www.programiz.com/online-compiler/9Dn2czklj0qz9 (marksheet)
 
 switch case : https://www.programiz.com/online-compiler/85rTXmsFTVtaj
+2) https://www.programiz.com/online-compiler/1kBiWLvsrAt8I
