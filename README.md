@@ -7,3 +7,11 @@ else if
 
 switch case : https://www.programiz.com/online-compiler/85rTXmsFTVtaj <br>
 2) https://www.programiz.com/online-compiler/1kBiWLvsrAt8I
+
+
+
+For loop
+1) https://www.programiz.com/online-compiler/46VB2N3Z5omq7
+2) https://www.programiz.com/online-compiler/9WaDi8oUQ3iB0
+3) https://www.programiz.com/online-compiler/1tLo0oVWUMvdP
+4) https://www.programiz.com/online-compiler/34QaBe8MtwcUQ
