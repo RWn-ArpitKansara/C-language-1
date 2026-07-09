@@ -19,3 +19,7 @@ For loop
 
 Pattern
 1) https://www.programiz.com/online-compiler/6jCtmcxlivj8a
+
+
+Two Dimensional Array 
+https://www.programiz.com/online-compiler/74QauqOzKwFKZ
